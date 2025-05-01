@@ -1,4 +1,4 @@
-# Exp.no: 44
+# Exp.no: 54
 ## DOUBLE LINKED LIST-2
 
 ### AIM
