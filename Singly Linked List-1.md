@@ -1,4 +1,4 @@
-# Exp.no: 41
+# Exp.no: 51
 ## SINGLY LINKED LIST-1
 
 ### AIM
